@@ -1,4 +1,4 @@
-# <a href="img/logo_gaugoth_corp_white.png" target="_blank"><img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_white.png" width="100px" height="100px"></a>
+# <a href="http://gaugoth.corp.free.fr/datas/logo_gaugoth_corp_white.png" target="_blank"><img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_white.png" width="100px" height="100px"></a>
 
 
 [ [English](README.md) | [Français](README-fr.md)  ]
