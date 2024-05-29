@@ -1,7 +1,4 @@
-GauGoth Corp. 
-
-
-# <img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_basic_white.png">
+# <img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_basic_white.png" width="50%" height="50%">
 
 
 [ [English](README.md) | [Français](README-fr.md)  ]
