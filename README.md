@@ -1,4 +1,4 @@
-# <img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_white.png" width="100px" height="100px">
+# <img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_white.png" width="100px" height="100px" style="border-radius=14px">
 
 
 [ [English](README.md) | [Français](README-fr.md)  ]
