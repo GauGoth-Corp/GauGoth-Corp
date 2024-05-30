@@ -51,6 +51,7 @@ After a little brainstorming, we chose to create a Star Wars website. We develop
 
 ## Copyrights
 
+*Copyright © 2023-2024 GauGoth Corp. All rights reserved.*
 All rights reserved. Any reproduction, duplication or copy, complete or partial, without the agreement of the GauGoth Corp. is strictly forbidden.
 
 If you have any questions, comments, requests or other, if you have noticed any bugs, contact me at: [mailto:gaugoth.corp@free.fr](gaugoth.corp@free.fr). 
