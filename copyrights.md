@@ -1,7 +1,7 @@
 [ [English](README.md) | [Français](README-fr.md)  ]
 
 ## Credits
-[Come back to README.md](../README.md)
+[Come back to README.md](README.md)
 
 *Copyright © 2023-2024 GauGoth Corp. All rights reserved.
 Copyright © 2022 Unity Technologies
