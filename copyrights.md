@@ -2,6 +2,7 @@
 
 ## Credits
 [Come back to README.md](README.md)
+<p>&nbsp;</p>
 
 *Copyright © 2023-2024 GauGoth Corp. All rights reserved.
 Copyright © 2022 Unity Technologies
