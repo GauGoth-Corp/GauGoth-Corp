@@ -19,8 +19,12 @@ To visit my website and discover more about me :
 [http://gaugoth.corp.free.fr](http://gaugoth.corp.free.fr/).
 
 <p>&nbsp;</p>
-<h2>New ! Galaxie Lointaine</h2>
+
+## New ! Galaxie Lointaine
+
 The ultimate Star Wars website created by fans, for fans.
+
+Galaxie Lointaine is a website about Star Wars, divided in 4 sections including : the Star Wars **news**, an **encyclopedia**, a **forum** to speak of Star Wars *with* Star Wars fans, and finally a quizz testing your knowledge of Star Wars and its universe with 50 questions !
 
 [https://galaxielointaine.alwaysdata.net](https://galaxielointaine.alwaysdata.net/en/).
 <hr>
