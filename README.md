@@ -24,9 +24,11 @@ To visit my website and discover more about me :
 
 The ultimate Star Wars website created by fans, for fans.
 
+[https://galaxielointaine.alwaysdata.net](https://galaxielointaine.alwaysdata.net/en/)
+
 Galaxie Lointaine is a website about Star Wars, divided in 4 sections including : the Star Wars **news**, an **encyclopedia**, a **forum** to speak of Star Wars *with* Star Wars fans, and finally **a quizz testing your knowledge of Star Wars** and its universe in 50 questions !
 
-[https://galaxielointaine.alwaysdata.net](https://galaxielointaine.alwaysdata.net/en/).
+[https://galaxielointaine.alwaysdata.net/tests-et-quizz/001_quizz-etes-vous-un-vrai-fan-de-star-wars/](https://galaxielointaine.alwaysdata.net/tests-et-quizz/001_quizz-etes-vous-un-vrai-fan-de-star-wars/)
 
 <p>&nbsp;</p>
 
