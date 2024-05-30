@@ -41,6 +41,6 @@ After reading the chapter on web forms, our teacher asked us to work in groups o
 
 After a little brainstorming, we chose to create a Star Wars website. We developed it thoroughly, and here it is!
 
-<p><img src="img/screen GL login-en.png" width="320">
-<img src="img/screen GL quizz.png" width="320">
+<p><img src="img/screen GL login-en.png" width="40%">
+<img src="img/screen GL quizz.png" width="40%">
 </p>
