@@ -55,6 +55,6 @@ After a little brainstorming, we chose to create a Star Wars website. We develop
 
 All rights reserved. Any reproduction, duplication or copy, complete or partial, without the agreement of the GauGoth Corp. is strictly forbidden.
 
-If you have any questions, comments, requests or other, if you have noticed any bugs, contact me at: [mailto:gaugoth.corp@free.fr](gaugoth.corp@free.fr). 
+If you have any questions, comments, requests or other, if you have noticed any bugs, contact me at: [gaugoth.corp@free.fr](mailto:gaugoth.corp@free.fr). 
 
 **Learn more about credits and copyrights: [Learn more](copyrights.md).**
