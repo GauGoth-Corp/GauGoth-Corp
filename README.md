@@ -46,3 +46,13 @@ After a little brainstorming, we chose to create a Star Wars website. We develop
 <p><img src="img/screen GL login-en.png" width="40%">
 <img src="img/screen GL quizz.png" width="40%">
 </p>
+
+<p>&nbsp;</p>
+
+## Copyrights
+
+All rights reserved. Any reproduction, duplication or copy, complete or partial, without the agreement of the GauGoth Corp. is strictly forbidden.
+
+If you have any questions, comments, requests or other, if you have noticed any bugs, contact me at: [mailto:gaugoth.corp@free.fr](gaugoth.corp@free.fr). 
+
+**Learn more about credits and copyrights: [Learn more](copyrights.md).**
