@@ -1,16 +1,16 @@
-# <img alt="GauGoth Corp. logo" title="GauGoth Corp. logo" src="img/logo_gaugoth_corp_white.png" width="100px" height="100px">
+# <img alt="logo de GauGoth Corp." title="logo de GauGoth Corp." src="img/logo_gaugoth_corp_white.png" width="100px" height="100px">
 
 
 [ [Français](README-fr.md) | [English](README.md) ]
 
-## What is GauGoth Corp. ?
+## Qu'est-ce que GauGoth Corp. ?
 
-**GauGoth Corp.** is an organization founded in 2021 that develops video games under the Unity game engine. Its first game is **Mini Golf 3D: The Pirate flag**. 
+**GauGoth Corp.** est une organisation créée en 2021 qui développe des jeux vidéos sous le moteur de jeu Unity. Son premier jeu est **Mini Golf 3D: The Pirate flag**.
 <p>&nbsp;</p>
 
 <img src="img/Fond Menu Base Mini Golf.PNG" width="90%">
 
-Mini Golf 3D: The Pirate flag and GauGoth Corp. aim is not to make money, but simply to have fun and share its creations. That's why all GauGoth Corp. products are free of charge.
+Le but de Mini Golf 3D: The Pirate flag et GauGoth Corp. est de ne pas faire d'argent, mais simplement de s'amuser et de partager ses créations. C'est pourquoi toutes les ressources de GauGoth Corp. sont gratuites.
 <p>&nbsp;</p>
 
 <img src="img/Panels Menus.png" width="90%">
