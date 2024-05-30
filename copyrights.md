@@ -14,7 +14,7 @@ If you have any questions, comments, requests or other, if you have noticed any 
 
 *Thanks to the people who have made available assets on websites like Unity Asset Store, FreeSFX.com, opengameart.org, i2clipart.com, pngimg.com, lasonotheque.org, dafont.com and especially to the Magic Makers organization which initiated me to Unity during a course and to the book "Créez des jeux de A à Z avec Unity - I. Votre premier jeu mobile Ed. 3" by Anthony Cardinale. Thanks to the YouTube channel Tuto Unity FR for the loading bar.*
 
-Thanks to Free for hosting this website.
+Thanks to Free and AlwaysData for hosting our websites.
 
 And of course thanks to Unity Technologies for their video game editor.
 
