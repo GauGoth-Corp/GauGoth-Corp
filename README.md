@@ -22,7 +22,7 @@ To visit my website and discover more about me :
 
 <p>&nbsp;</p>
 
-## New ! Galaxie Lointaine
+## New! Galaxie Lointaine
 
 The ultimate Star Wars website created by fans, for fans.
 
