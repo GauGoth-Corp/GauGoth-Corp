@@ -59,4 +59,4 @@ Tous droits réservés. Toute reproduction, duplication ou copie, complète ou p
 
 Si vous avez des questions, des commentaires, des requêtes ou autres, si vous avez remarqué des bugs, contactez-moi à l'adresse [gaugoth.corp@free.fr](mailto:gaugoth.corp@free.fr). 
 
-**En savoir plus à propos des crédits et des copyrights: [En savoir plus](copyrights-fr.md).**
+**En savoir plus à propos des crédits et des copyrights : [En savoir plus](copyrights-fr.md).**
