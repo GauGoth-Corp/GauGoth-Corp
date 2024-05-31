@@ -19,8 +19,7 @@ Si vous avez des questions, des commentaires, des requêtes ou autres, si vous a
 <p>&nbsp;</p>
 
 
-*Merci aux personnes qui ont rendu disponibles des ressources sur des sites comme Unity Asset Store,
-FreeSFX.com, opengameart.org, i2clipart.com, pngimg.com, lasonotheque.org, dafont.com et spécialement à l'organisation Magic Makers qui m'a initié à Unity durant un stage ainsi qu'au livre "Créez des jeux de A à Z avec Unity - I. Votre premier jeu mobile Ed. 3" par Anthony Cardinale. Merci à la chaîne YouTube Tuto Unity FR pour la barre de chargement. *
+*Merci aux personnes qui ont rendu disponibles des ressources sur des sites comme Unity Asset Store,FreeSFX.com, opengameart.org, i2clipart.com, pngimg.com, lasonotheque.org, dafont.com et spécialement à l'organisation Magic Makers qui m'a initié à Unity durant un stage ainsi qu'au livre "Créez des jeux de A à Z avec Unity - I. Votre premier jeu mobile Ed. 3" par Anthony Cardinale. Merci à la chaîne YouTube Tuto Unity FR pour la barre de chargement.*
 
 Merci à Free et AlwaysData pour l'hébergement de nos sites web.
 
