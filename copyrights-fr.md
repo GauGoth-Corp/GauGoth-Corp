@@ -4,15 +4,15 @@
 [Revenir à README.md](README-fr.md)
 <p>&nbsp;</p>
 
-*Copyright © 2023-2024 GauGoth Corp. All rights reserved.
+*Copyright © 2023-2024 GauGoth Corp. All rights reserved.*
 
-Copyright © 2022 Unity Technologies
+*Copyright © 2022 Unity Technologies*
 
-Copyright © Microsoft 2022 & Visual Studio
+*Copyright © Microsoft 2022 & Visual Studio*
 
-Copyright © freeSFX.com
+*Copyright © freeSFX.com*
 
-Copyright © 2009-2016 Sciweavers LLC*
+*Copyright © 2009-2016 Sciweavers LLC*
 
 
 Tous droits réservés. Toute reproduction, duplication ou copie, complète ou partielle, sans l'autorisation de GauGoth Corp. est strictement interdite. 
