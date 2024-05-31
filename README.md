@@ -18,6 +18,8 @@ Mini Golf 3D: The Pirate flag and GauGoth Corp. aim is not to make money, but si
 To visit my website and discover more about me :
 [http://gaugoth.corp.free.fr](http://gaugoth.corp.free.fr/en/).
 
+<img src="img/Logo_Mini_Golf_3D_The_Pirate_flag_extended.png" width="70%">
+
 <p>&nbsp;</p>
 
 ## New ! Galaxie Lointaine
