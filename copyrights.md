@@ -1,4 +1,4 @@
-[ [English](README.md) | [Français](README-fr.md)  ]
+[ [English](copyrights.md) | [Français](copyrights-fr.md)  ]
 
 ## Credits
 [Come back to README.md](README.md)
