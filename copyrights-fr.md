@@ -1,13 +1,17 @@
-[ [Français](README-fr.md) | [English](README.md) ]
+[ [Français](copyrights.md) | [English](copyrights-fr.md) ]
 
-## Credits
+## Crédits
 [Revenir à README.md](README-fr.md)
 <p>&nbsp;</p>
 
 *Copyright © 2023-2024 GauGoth Corp. All rights reserved.
+
 Copyright © 2022 Unity Technologies
+
 Copyright © Microsoft 2022 & Visual Studio
+
 Copyright © freeSFX.com
+
 Copyright © 2009-2016 Sciweavers LLC*
 
 
