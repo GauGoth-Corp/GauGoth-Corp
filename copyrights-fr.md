@@ -1,8 +1,7 @@
-[ [Français](copyrights.md) | [English](copyrights-fr.md) ]
+[ [Français](copyrights-fr.md) | [English](copyrights.md) ]
 
 ## Crédits
 [Revenir à README.md](README-fr.md)
-<p>&nbsp;</p>
 
 *Copyright © 2023-2024 GauGoth Corp. All rights reserved.*
 
@@ -17,6 +16,7 @@
 
 Tous droits réservés. Toute reproduction, duplication ou copie, complète ou partielle, sans l'autorisation de GauGoth Corp. est strictement interdite. 
 Si vous avez des questions, des commentaires, des requêtes ou autres, si vous avez remarqué des bugs, contactez-moi à l'adresse gaugoth.corp@free.fr. 
+<p>&nbsp;</p>
 
 
 *Merci aux personnes qui ont rendu disponibles des ressources sur des sites comme Unity Asset Store,
@@ -29,7 +29,7 @@ Et bien sûr merci à Unity Technologies pour son éditeur de jeux-vidéos.
 Remerciements spéciaux à mon père qui m'a aidé pendant la conception du jeu.
 
 Et enfin remerciements à ma famille, mes amis... Et tout particulièrement à ma mère qui m'a trouvé ce stage et m'a poussé à le faire.
-
+<p>&nbsp;</p>
  
 
 GauGoth Corp. s'est efforcé d'utiliser des ressources, produits, documents, images, modèles 3D, sons, scripts, etc. entièrement libres de droit. Les produits sous licence devant être crédités le sont. En cas d'oubli ou d'erreur involontaire, GauGoth Corp. s'excuse et est prêt à considérer toutes réclamations.
