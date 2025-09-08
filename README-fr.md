@@ -7,7 +7,7 @@
 
 **GauGoth Corp.** est une organisation créée en 2021 qui développe des jeux vidéos sous le moteur de jeu Unity. Son premier jeu est **Mini Golf 3D: The Pirate flag**.
 <p>&nbsp;</p>
-TEST
+
 <img src="img/Fond Menu Base Mini Golf.PNG" width="90%">
 
 Le but de Mini Golf 3D: The Pirate flag et GauGoth Corp. est de ne pas faire d'argent, mais simplement de s'amuser et de partager ses créations. C'est pourquoi toutes les ressources de GauGoth Corp. sont gratuites.
