@@ -53,7 +53,7 @@ Nous avons choisi, après un petit brain storming, de faire un site Star Wars. N
 
 ## Copyrights
 
-*Copyright © 2023-2024 GauGoth Corp. All rights reserved.*
+*Copyright © 2023-2025 GauGoth Corp. All rights reserved.*
 
 Tous droits réservés. Toute reproduction, duplication ou copie, complète ou partielle, sans l'autorisation de GauGoth Corp. est strictement interdite. 
 
