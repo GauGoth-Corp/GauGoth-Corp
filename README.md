@@ -23,7 +23,7 @@
 
 
 
-- [**_GauGoth Corp website_**](https://gaugoth-corp.pages-perso.free.fr/en/) - _Web_: the official website of GauGoth Corp., gathering a lot of content related to my work. [Visit !](https://gaugoth-corp.pages-perso.free.fr/en/)
+- [**_GauGoth Corp website_**](https://gaugoth-corp.pages-perso.free.fr/en/) - _Web_: the official website of GauGoth Corp., gathering a lot of content related to my work: games, news, gallery, credits, easter egg... Both available in **French** and **English**. [Visit !](https://gaugoth-corp.pages-perso.free.fr/en/)
 
 <p style="text-align: center;">
   <img style="border-radius: 10px;" alt="Site de GauGoth Corp." title="Site de GauGoth Corp." src="img/logo_gaugoth_corp_basic_white.png" width="40px" height="auto">
