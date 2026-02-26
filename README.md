@@ -60,8 +60,8 @@
 <p style="text-align:center;width:100%;font-size:1.5em;font-weight:bold;">
   <img src="img/Game menu.PNG" alt="[Mini Golf 3D: The Pirate flag]" title="[Mini Golf 3D: The Pirate flag]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
   <img src="img/Screenshot Game-browser.png" alt="[MG3D: TPF - WebGL]" title="[MG3D: TPF - WebGL]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
-  <img src="img/Screen-GGC-site_fr.png" alt="[GGC Website]" title="[GGC Website]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
-  <img src="img/screen GL home.png" alt="[Galaxie Lointaine]" title="[Galaxie Lointaine]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
+  <img src="img/Screen-GGC-site_en.png" alt="[GGC Website]" title="[GGC Website]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
+  <img src="img/screen GL home-en.png" alt="[Galaxie Lointaine]" title="[Galaxie Lointaine]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
   <img src="img/screen GL quizz.png" alt="[GL Quizz]" title="[GL Quizz]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
   <img src="img/WBV-demo.png" alt="[Whatsapp Backup Viewer]" title="[Whatsapp Backup Viewer]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
   <img src="img/Auto-Media-Downloader-demo.png" alt="[Auto Medias Downloader]" title="[Auto Medias Downloader]" style="width:45%;height:auto;border-radius:6px;border:2px solid #905e00;">
