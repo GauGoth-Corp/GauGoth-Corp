@@ -3,7 +3,7 @@
 ## Credits
 [Come back to README.md](README.md)
 
-*Copyright © 2023-2025 GauGoth Corp. All rights reserved.*
+*Copyright © 2021-2026 GauGoth Corp. All rights reserved.*
 
 *Copyright © 2022 Unity Technologies*
 
@@ -16,7 +16,7 @@
 
 All rights reserved. Any reproduction, duplication or copy, complete or partial, without the
 agreement of the GauGoth Corp. is strictly forbidden.
-If you have any questions, comments, requests or other, if you have noticed any bugs, contact me at: gaugoth.corp@free.fr.
+If you have any questions, comments, requests or other, if you have noticed any bugs, contact me using this form: [https://gaugoth-corp.pages-perso.free.fr/en/credits/contact/]().
 <p>&nbsp;</p>
 
 *Thanks to the people who have made available assets on websites like Unity Asset Store, FreeSFX.com, opengameart.org, i2clipart.com, pngimg.com, lasonotheque.org, dafont.com and especially to the Magic Makers organization which initiated me to Unity during a course and to the book "Créez des jeux de A à Z avec Unity - I. Votre premier jeu mobile Ed. 3" by Anthony Cardinale. Thanks to the YouTube channel Tuto Unity FR for the loading bar.*

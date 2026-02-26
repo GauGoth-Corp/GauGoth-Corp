@@ -3,7 +3,7 @@
 ## Crédits
 [Revenir à README.md](README-fr.md)
 
-*Copyright © 2023-2025 GauGoth Corp. All rights reserved.*
+*Copyright © 2021-2026 GauGoth Corp. All rights reserved.*
 
 *Copyright © 2022 Unity Technologies*
 
@@ -15,7 +15,7 @@
 
 
 Tous droits réservés. Toute reproduction, duplication ou copie, complète ou partielle, sans l'autorisation de GauGoth Corp. est strictement interdite. 
-Si vous avez des questions, des commentaires, des requêtes ou autres, si vous avez remarqué des bugs, contactez-moi à l'adresse gaugoth.corp@free.fr. 
+Si vous avez des questions, des commentaires, des requêtes ou autres, si vous avez remarqué des bugs, contactez-moi grâce à ce formulaire : [https://gaugoth-corp.pages-perso.free.fr/credits/contact/]().
 <p>&nbsp;</p>
 
 
