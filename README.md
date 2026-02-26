@@ -18,7 +18,7 @@
 
 <p style="text-align: center;">
   <img style="border-radius: 10px;" alt="Mini Golf 3D: The Pirate flag" title="Mini Golf 3D: The Pirate flag" src="img/Logo_Mini_Golf_3D_The_Pirate_flag_android_icon_V2.png" width="40px" height="auto">
-  <img alt="Download count" title="Download count" src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Downloads-1500%2B-e19e24" width="auto" height="40px">
+  <img alt="Download count" title="Download count" src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Downloads-1500%2B-e19e24?style=for-the-badge" width="auto" height="40px">
 </p>
 
 
@@ -27,14 +27,14 @@
 
 <p style="text-align: center;">
   <img style="border-radius: 10px;" alt="Site de GauGoth Corp." title="Site de GauGoth Corp." src="img/logo_gaugoth_corp_basic_white.png" width="40px" height="auto">
-  <img alt="Visitor count" title="Visitor count" src="https://img.shields.io/badge/dynamic/json?url=https://gaugoth-corp.pages-perso.free.fr/tech/api/badge-counter-github.php&query=$.visites&label=Visits&color=3498db&cacheSeconds=300" width="auto" height="40px">
+  <img alt="Visitor count" title="Visitor count" src="https://img.shields.io/badge/dynamic/json?url=https://gaugoth-corp.pages-perso.free.fr/tech/api/badge-counter-github.php&query=$.visites&label=Visits&color=3498db&cacheSeconds=300&style=for-the-badge" width="auto" height="40px">
 </p>
 
 - [**_Galaxie Lointaine_**](https://galaxielointaine.alwaysdata.net/en/) - _Web_: a website about the Star Wars universe, created by fans for fans. It includes news, an encyclopedia, a forum, quizzes, and other surprises. [Discover !](https://galaxielointaine.alwaysdata.net/en/)
 
 <p style="text-align: center;">
   <img alt="Galaxie Lointaine" title="Galaxie Lointaine" src="img/Logo_Galaxie_Lointaine_carre.png" width="40px" height="auto">
-  <img alt="Visitor count" title="Visitor count" src="https://img.shields.io/badge/dynamic/json?url=https://galaxielointaine.alwaysdata.net/tech/api/badge-counter-github.php&query=$.visites&label=Visits&color=ecc500&cacheSeconds=300" width="auto" height="40px">
+  <img alt="Visitor count" title="Visitor count" src="https://img.shields.io/badge/dynamic/json?url=https://galaxielointaine.alwaysdata.net/tech/api/badge-counter-github.php&query=$.visites&label=Visits&color=ecc500&cacheSeconds=300&style=for-the-badge" width="auto" height="40px">
 </p>
 
 - [**_Auto Medias Downloader_**](https://github.com/GauGoth-Corp/Auto-Medias-Downloader) - _Batch Windows_: a software for automatically downloading music and videos. [Download !](https://github.com/GauGoth-Corp/Auto-Medias-Downloader)
