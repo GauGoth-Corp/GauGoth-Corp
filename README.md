@@ -27,7 +27,7 @@
 
 <p style="text-align: center;">
   <img style="border-radius: 10px;" alt="Site de GauGoth Corp." title="Site de GauGoth Corp." src="img/logo_gaugoth_corp_basic_white.png" width="40px" height="auto">
-  <img alt="Visitor count" title="Visitor count" src="https://img.shields.io/badge/dynamic/json?url=https://gaugoth-corp.pages-perso.free.fr/tech/api/badge-counter-github.php&query=$.visites&label=Visits&color=3498db&cacheSeconds=300&style=for-the-badge" width="auto" height="40px">
+  <img alt="Visitor count" title="Visitor count" src="https://img.shields.io/badge/dynamic/json?url=https://gaugoth-corp.pages-perso.free.fr/tech/api/badge-counter-github.php?query=$.visites&label=Visits&color=3498db&cacheSeconds=300&style=for-the-badge" width="auto" height="40px">
 </p>
 
 - [**_Galaxie Lointaine_**](https://galaxielointaine.alwaysdata.net/en/) - _Web_: a website about the Star Wars universe, created by fans for fans. It includes news, an encyclopedia, a forum, quizzes, and other surprises. [Discover !](https://galaxielointaine.alwaysdata.net/en/)
